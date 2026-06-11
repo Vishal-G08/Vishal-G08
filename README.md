@@ -2,7 +2,7 @@
 
 ## About me 👨‍🎓
 
-A graduate with a Master of Information Systems Management degree 🎓 from Macquarie Univerity, Sydney, Australia📍 , enthusiastic about leveraging technology to enhance business operations and drive organizational success.
+Analitical professional with a Master of Information Systems Management degree from Macquarie Univerity, Sydney, Australia, enthusiastic about leveraging technology to enhance business operations and drive organizational success.
 
 ## Passionate about 💻
 - Developing interactive dashboards to monitor key metrics and performance
